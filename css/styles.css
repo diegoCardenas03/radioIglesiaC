@@ -71,7 +71,7 @@ section{
     .contenedor-reproductor{
         width: 250px;
         height: 300px;
-        margin:  20vh auto;
+        top: 150px;
         align-items: center;
         justify-content: center;
         box-shadow: 2px 2px 10px black;
@@ -88,7 +88,7 @@ section{
     .contenedor-reproductor{
         width: 250px;
         height: 300px;
-        margin:  22vh auto;
+        top: 160px;
         align-items: center;
         justify-content: center;
         box-shadow: 2px 2px 10px black;
@@ -105,7 +105,7 @@ section{
     .contenedor-reproductor{
         width: 250px;
         height: 300px;
-        margin:  24vh auto;
+        top: 170px;
         align-items: center;
         justify-content: center;
         box-shadow: 2px 2px 10px black;
@@ -122,7 +122,7 @@ section{
     .contenedor-reproductor{
         width: 250px;
         height: 300px;
-        margin:  26vh auto;
+        top: 180px;
         align-items: center;
         justify-content: center;
         box-shadow: 2px 2px 10px black;
@@ -135,7 +135,6 @@ section{
     }
 
 }
-
 
 
 
