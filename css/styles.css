@@ -8,7 +8,7 @@ html{
     padding: 0;
 }
 body{
-    background-image: url('../imagenes/fondo_radio15.png');
+    background-image: url('../imagenes/fondo_radio10.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -46,7 +46,8 @@ a{
     /* margin-left: 20px; */
     color: white;
     font-size: 25px;
-    
+    filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.7));
+
     
 }
 section{
@@ -243,7 +244,7 @@ footer{
     margin: 10px 10px 0;
 }
 .iconos-footer .icono-ig{
-    color: rgb(145, 0, 182);
+    color: rgb(187, 3, 233);
     filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.7));
 }
 .iconos-footer .icono-fb{
