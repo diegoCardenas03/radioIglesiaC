@@ -8,7 +8,7 @@ html{
     padding: 0;
 }
 body{
-    background-image: url('../imagenes/imagen-background.jpg');
+    background-image: url('../imagenes/12.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -16,7 +16,7 @@ body{
 
 @media screen and (max-width: 1179px) {
     body{
-    background-position: top;
+    background-position: right;
     }
 }
 
